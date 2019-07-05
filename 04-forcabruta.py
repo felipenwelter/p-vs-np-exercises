@@ -72,8 +72,3 @@ def main():
       print("\nNenhuma instância atende subset-sum")
 
 main()
-
-# 05. A implementação de força bruta para o subset-sum tem complexidade de tempo
-# exponencial ao número de elementos no conjunto. É necessário testar
-# cada combinação possível dentro do conjunto, e nesse caso, tendo 22 posições,
-# demandaria 2ˆ22 = 4.194.304 testes.
